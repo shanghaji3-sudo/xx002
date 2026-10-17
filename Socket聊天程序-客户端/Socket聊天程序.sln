@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Socket聊天程序", "Socket聊天程序.csproj", "{46226ABD-8585-430A-BA99-A43F8E73A888}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46226ABD-8585-430A-BA99-A43F8E73A888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46226ABD-8585-430A-BA99-A43F8E73A888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46226ABD-8585-430A-BA99-A43F8E73A888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46226ABD-8585-430A-BA99-A43F8E73A888}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4DD379B-3201-4F92-BD7F-F1355926C8AF}
+	EndGlobalSection
+EndGlobal

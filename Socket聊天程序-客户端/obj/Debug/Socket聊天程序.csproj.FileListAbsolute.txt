@@ -1,0 +1,19 @@
+C:\Users\21634\Desktop\Socket聊天程序 - 副本\obj\Debug\Socket聊天程序.csproj.AssemblyReference.cache
+C:\Users\21634\Desktop\Socket聊天程序 - 副本\obj\Debug\Socket聊天程序.MainFrm.resources
+C:\Users\21634\Desktop\Socket聊天程序 - 副本\obj\Debug\Socket聊天程序.csproj.GenerateResource.cache
+C:\Users\21634\Desktop\Socket聊天程序 - 副本\bin\Debug\Socket聊天程序.exe.config
+C:\Users\21634\Desktop\Socket聊天程序 - 副本\bin\Debug\Socket聊天程序.exe
+C:\Users\21634\Desktop\Socket聊天程序 - 副本\bin\Debug\Socket聊天程序.pdb
+C:\Users\21634\Desktop\Socket聊天程序 - 副本\obj\Debug\Socket聊天程序.Properties.Resources.resources
+C:\Users\21634\Desktop\Socket聊天程序 - 副本\obj\Debug\Socket聊天程序.csproj.CoreCompileInputs.cache
+C:\Users\21634\Desktop\Socket聊天程序 - 副本\obj\Debug\Socket聊天程序.exe
+C:\Users\21634\Desktop\Socket聊天程序 - 副本\obj\Debug\Socket聊天程序.pdb
+C:\Users\21634\Desktop\Socket聊天程序-客户端\bin\Debug\Socket聊天程序.exe.config
+C:\Users\21634\Desktop\Socket聊天程序-客户端\bin\Debug\Socket聊天程序.exe
+C:\Users\21634\Desktop\Socket聊天程序-客户端\bin\Debug\Socket聊天程序.pdb
+C:\Users\21634\Desktop\Socket聊天程序-客户端\obj\Debug\Socket聊天程序.csproj.AssemblyReference.cache
+C:\Users\21634\Desktop\Socket聊天程序-客户端\obj\Debug\Socket聊天程序.客户端.resources
+C:\Users\21634\Desktop\Socket聊天程序-客户端\obj\Debug\Socket聊天程序.csproj.GenerateResource.cache
+C:\Users\21634\Desktop\Socket聊天程序-客户端\obj\Debug\Socket聊天程序.csproj.CoreCompileInputs.cache
+C:\Users\21634\Desktop\Socket聊天程序-客户端\obj\Debug\Socket聊天程序.exe
+C:\Users\21634\Desktop\Socket聊天程序-客户端\obj\Debug\Socket聊天程序.pdb
